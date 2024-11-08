@@ -9,7 +9,41 @@
     height: 10vh;
     width: 90vw;
     margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
+
+.end{
+    border: 1px solid black;
+    width: 20%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.end_link {
+    text-decoration: none;
+    border: 1px solid green;
+}
+
+.end_1 {
+    border: 1px solid red;
+    text-decoration: none;
+    color: black;
+}
+
+.end_2 {
+    color: black ;
+}
+
+.end_3 {
+    color: black;
+}
+
 .logo{
     display: flex;
     justify-content: left;
