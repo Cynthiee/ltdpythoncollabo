@@ -4,6 +4,7 @@
 }
 
 .first{
+    
     border: 1px solid rebeccapurple;
     height: 10vh;
     width: 90vw;
@@ -12,6 +13,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
 
 .end{
     border: 1px solid black;
@@ -42,7 +44,14 @@
     color: black;
 }
 
-
+.logo{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.logotext{
+    color: deeppink;
+}
 .second{
     border: 1px solid orangered;
     height: 12vh;
