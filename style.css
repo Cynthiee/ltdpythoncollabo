@@ -1,4 +1,24 @@
 
+.div {
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  border: 1px solid white;
+  justify-content: center;
+}
+
+.second {
+  height: 9vh;
+  width: 45vw;
+  border: 1px solid orangered;
+  box-shadow: -4px 3px 5px 0px rgb(110, 106, 110);
+  border-radius: 100px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
 * {
   margin: 0%;
   padding: 0%;
@@ -292,5 +312,6 @@ main{
 border: 1px solid black;
 border-radius: 10px;
 }
+
 
 
