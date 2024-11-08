@@ -4,10 +4,19 @@
 }
 
 .first{
+    
     border: 1px solid rebeccapurple;
     height: 10vh;
     width: 90vw;
     margin-top: 10px;
+}
+.logo{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.logotext{
+    color: deeppink;
 }
 .second{
     border: 1px solid orangered;
